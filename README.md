@@ -1,5 +1,5 @@
 # Mao-Tse-Tung-quotes-json
-Mat Tse Tung / Zedong .ie Founder of People's Republic of China
+Mat Tse Tung / Zedong i.e. Founder of People's Republic of China
 
 feel free to contribute-localize-develope.
 # Source
